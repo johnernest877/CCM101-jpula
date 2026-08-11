@@ -1,65 +1,62 @@
 <div align="center">
-<img src="https://github.com/johnernest877.png" width="180"/>
 
-# John Ernest C. Pula
-## Learning Cloud Technologies ☁️
+<img src="https://github.com/johnernest877.png" width="150" style="border-radius:50%"/>
 
-Bachelor of Science in Information Technology (BSIT)
+# 👋 Hi, I'm John Ernest C. Pula
 
-University of Eastern Pangasinan (UEP)
+### ☁️ Cloud Computing Student | Linux Enthusiast | Aspiring Cloud Engineer
 
-CCM101 - Cloud Computing
+**BS Information Technology** · University of Eastern Pangasinan  
+**CCM101 – Cloud Computing** · Instructor: Cledmar N. Badongen
 
-Instructor: Cledmar N. Badongen
+[![GitHub](https://img.shields.io/badge/GitHub-johnernest877-181717?style=for-the-badge&logo=github)](https://github.com/johnernest877)
 
 </div>
 
----
+<br>
 
-# About
-This repository serves as my portfolio for **CCM101 – Cloud Computing**, containing laboratory activities, Linux exercises, Git, GitHub, and cloud computing documentation completed throughout the semester.
+## 🧭 About This Portfolio
 
-Each laboratory reflects my progress in:
-- Linux
-- Git & GitHub
-- Shell Commands
-- Cloud Computing
-- Documentation
+This repository documents my journey through **CCM101 – Cloud Computing**, containing all laboratory activities, Linux exercises, and documentation completed throughout the semester — from basic Linux fundamentals to Git/GitHub workflows and cloud infrastructure concepts.
 
-I enjoy learning new technologies and improving my practical skills through hands-on activities.
+Each lab builds on the last, tracking my growth in:
 
----
+| Area | Focus |
+|---|---|
+| 🐧 Linux | Command line, user management, system administration |
+| 🔧 Git & GitHub | Version control, repositories, collaboration |
+| ⚡ Shell | Bash scripting and automation |
+| ☁️ Cloud Computing | Infrastructure, virtualization, enterprise solutions |
+| 📝 Documentation | Markdown, technical writing |
 
-# Skills
-- Linux
-- Git
-- GitHub
-- Bash
-- Cloud Computing
-- Networking
+<br>
 
----
+## 🛠️ Tech Stack
 
-# Laboratory Activities
-| Activity | Status |
-|----------|--------|
-| Lab 1 - Welcome to the Cloud | ✅ |
-
----
-
-# Contact
-GitHub: https://github.com/johnernest877
-
----
-
-# 💻 Technical Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,git,github,md,bash,vscode" />
 </p>
 
-- Ubuntu Linux
-- KillerCoda Playground
-- Git
-- GitHub
-- Markdown
-- Command Line Interface (CLI)
+<br>
+
+## 📂 Laboratory Activities
+
+| # | Activity | Status |
+|---|---|---|
+| 01 | [Welcome to the Cloud](./Laboratory-01-Welcome-to-the-Cloud) | ✅ Complete |
+
+<br>
+
+## 📫 Contact
+
+<p align="center">
+  <a href="https://github.com/johnernest877">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github" />
+  </a>
+</p>
+
+<br>
+
+<div align="center">
+<sub>Built while learning to think like a cloud engineer ☁️</sub>
+</div>
