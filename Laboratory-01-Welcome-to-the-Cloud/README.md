@@ -57,5 +57,6 @@ Through this activity, I developed the following practical skills:
 - 📝 Writing clear technical documentation using Markdown
 ---
 # ✅ Mission Outcome
-This mission strengthened my foundational Linux administration skills while introducing professional documentation and version control practices using GitHub. Along the way, working through account and permission issues gave me a better practical understanding of how user management works in Linux. These competencies are essential for cloud engineers responsible for managing modern cloud infrastructure and enterprise computing environments.
+# ✅ Mission Outcome
+This mission gave me a practical foundation in Linux user management, system administration, and documentation using Git and GitHub. Working through real permission and directory issues made the learning stick far more than following steps perfectly would have. These are the same core skills cloud engineers rely on daily when managing infrastructure at scale.
 ---
