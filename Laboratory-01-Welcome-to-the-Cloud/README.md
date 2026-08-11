@@ -57,6 +57,5 @@ Through this activity, I developed the following practical skills:
 - 📝 Writing clear technical documentation using Markdown
 ---
 # ✅ Mission Outcome
-# ✅ Mission Outcome
 This mission gave me a practical foundation in Linux user management, system administration, and documentation using Git and GitHub. Working through real permission and directory issues made the learning stick far more than following steps perfectly would have. These are the same core skills cloud engineers rely on daily when managing infrastructure at scale.
 ---
