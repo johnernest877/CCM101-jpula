@@ -5,8 +5,11 @@
 ## Learning Cloud Technologies ☁️
 
 Bachelor of Science in Information Technology (BSIT)
+
 University of Eastern Pangasinan (UEP)
+
 CCM101 - Cloud Computing
+
 Instructor: Cledmar N. Badongen
 
 </div>
