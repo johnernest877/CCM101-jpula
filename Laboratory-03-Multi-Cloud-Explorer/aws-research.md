@@ -140,7 +140,7 @@ AWS can support many different business and technology needs for organizations.
 
 The screenshot below shows the AWS Management Console that was accessed during the laboratory activity.
 
-<!-- Insert your AWS screenshot here -->
+![AWS Management Console](screenshots/aws-homepage.png)
 
 ---
 
