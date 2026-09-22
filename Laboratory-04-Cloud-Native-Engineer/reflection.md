@@ -1,1 +1,9 @@
 # Reflection
+
+This laboratory helped me understand why Docker containers are useful in cloud-native engineering. Compared with installing an operating system on a Virtual Machine, a Docker container starts much faster because it does not need to boot a complete guest operating system. The Nginx image was downloaded and started in only a few commands. In contrast, setting up a Virtual Machine would require creating the VM, installing an operating system, updating it, and configuring the web server before it could be used.
+
+The port mapping option `-p 8080:80` was important because it connected port 8080 on the host environment to port 80 inside the Nginx container. Port 80 is where the Nginx web server listens, while port 8080 gave me a way to access it from outside the container. When I used `curl http://localhost:8080`, the “Welcome to nginx!” page appeared. This confirmed that the port mapping and web server both worked correctly.
+
+I also learned about the container lifecycle. The `docker ps` command showed the running Nginx container, and `docker stop nginx-server` stopped it. After stopping it, the container still existed until I used `docker rm nginx-server`. Removing a container deletes its writable data, so important data should not be stored only inside a container. In a real project, persistent data should be kept in Docker volumes or another external storage solution.
+
+Containerization can improve teamwork between software developers and IT operations teams because applications can be packaged with their dependencies and run consistently across environments. This supports DevOps by making deployments faster, more repeatable, and easier to manage. My GitHub portfolio is also improving because it now includes technical documentation, command explanations, and screenshots that show my actual work. This laboratory gave me more confidence in using Docker and documenting cloud computing tasks professionally.
