@@ -47,6 +47,8 @@ Each lab builds on the last, developing my skills in:
 | 02 | [Build the Cloud Infrastructure Blueprint](./Laboratory-02-Build-the-Cloud-Infrastructure-Blueprint) | ✅ Complete |
 | 03 | [Multi-Cloud Explorer](./Laboratory-03-Multi-Cloud-Explorer) | ✅ Complete |
 | 04 | [Cloud-Native Engineer](./Laboratory-04-Cloud-Native-Engineer) | ✅ Complete |
+| 05 | [Cloud Data Engineer](./Laboratory-05-Cloud-Data-Engineer) | ✅ Complete |
+| 06 | [Cloud Deployment Engineer](./Laboratory-06-Cloud-Deployment-Engineer) | ✅ Complete |
 
 <br>
 
