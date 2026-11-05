@@ -49,6 +49,9 @@ Each lab builds on the last, developing my skills in:
 | 04 | [Cloud-Native Engineer](./Laboratory-04-Cloud-Native-Engineer) | ✅ Complete |
 | 05 | [Cloud Data Engineer](./Laboratory-05-Cloud-Data-Engineer) | ✅ Complete |
 | 06 | [Cloud Deployment Engineer](./Laboratory-06-Cloud-Deployment-Engineer) | ✅ Complete |
+| 07 | [Cloud Operations Engineer](./Laboratory-07-Cloud-Operations-Engineer) | ✅ Complete |
+| 08 | [Cloud Security Engineer](./Laboratory-08-Cloud-Security-Engineer) | ✅ Complete |
+| 09 | [Cloud Automation Engineer](./Laboratory-09-Cloud-Automation-Engineer) | ✅ Complete |
 
 <br>
 
